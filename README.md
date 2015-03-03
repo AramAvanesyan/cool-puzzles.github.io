@@ -1,2 +1,2 @@
 # cool-puzzles.github.io
-Cool websites for awesome puzzles!
+Cool website for awesome puzzles!
